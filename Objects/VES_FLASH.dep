@@ -1,0 +1,308 @@
+Dependencies for Project 'VES', Target 'FLASH': (DO NOT MODIFY !)
+F (.\cdc_uart.c)(0x59A93336)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\cdc_uart.o --omf_browse .\objects\cdc_uart.crf --depend .\objects\cdc_uart.d)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4sd32c.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB8DF0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\system_sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\efc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pdc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pio.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\tc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\twi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\uart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\usart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioa.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\piob.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\pio\sam4sd32c.h)(0x54758D86)
+I (cdc_uart.h)(0x59A9334E)
+F (.\ftoa.c)(0x59A93DDC)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\ftoa.o --omf_browse .\objects\ftoa.crf --depend .\objects\ftoa.d)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB8DE6)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB8DEE)
+I (ftoa.h)(0x59A93DE8)
+F (.\main.c)(0x59AD0DBF)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5627AA4E)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB8DF0)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB8DEE)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4S.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4sd32c.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\system_sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\efc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pdc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pio.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\tc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\twi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\uart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\usart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioa.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\piob.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\pio\sam4sd32c.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB8DE6)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\math.h)(0x55DB8DEE)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB8DE8)
+I (io1.h)(0x57F3A868)
+I (cdc_uart.h)(0x59A9334E)
+I (ftoa.h)(0x59A93DE8)
+F (.\io1.c)(0x59A94EB8)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\io1.o --omf_browse .\objects\io1.crf --depend .\objects\io1.d)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4sd32c.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB8DF0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\system_sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\efc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pdc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pio.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\tc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\twi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\uart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\usart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioa.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\piob.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\pio\sam4sd32c.h)(0x54758D86)
+I (io1.h)(0x57F3A868)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5627AA4E)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB8DEE)
+F (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x5624BF76)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x59A937BC)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5627AA4E)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB8DF0)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB8DEE)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x556D9354)
+F (RTE\Device\ATSAM4SD32C\startup_SAM4S.s)(0x54758D86)(--cpu Cortex-M4 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "__SAM4SD32C__ SETA 1"--list .\listings\startup_sam4s.lst --xref -o .\objects\startup_sam4s.o --depend .\objects\startup_sam4s.d)
+F (RTE\Device\ATSAM4SD32C\system_SAM4S.c)(0x59ACEC6C)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I D:\Delo\Predmeti.VES\Delovna.2017\RTE-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S-D__UVISION_VERSION="517" -D_RTE_ -D__SAM4SD32C__-o .\objects\system_sam4s.o --omf_browse .\objects\system_sam4s.crf --depend .\objects\system_sam4s.d)
+I (C:\Programi\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB8DF0)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\SAM4S.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\sam4sd32c.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\system_sam4s.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\efc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pdc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pio.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\tc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\twi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\uart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\usart.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\component\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\hsmci.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\ssc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\spi.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\tc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\twi1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pwm.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\usart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\udp.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\adc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\dacc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\acc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\crccu.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\cmcc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\smc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\matrix.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pmc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\chipid.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\uart1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc0.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\efc1.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioa.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\piob.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\pioc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rstc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\supc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\wdt.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\rtc.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\instance\gpbr.h)(0x54758D86)
+I (C:\Programi\Keil_v5\ARM\PACK\Keil\SAM4_DFP\1.4.0\Device\Include\SAM4S\pio\sam4sd32c.h)(0x54758D86)

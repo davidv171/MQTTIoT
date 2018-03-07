@@ -1,0 +1,10 @@
+--cpu Cortex-M4
+".\objects\main.o"
+".\objects\hw_util.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib"
+".\objects\rtx_conf_cm.o"
+".\objects\startup_sam4s.o"
+".\objects\system_sam4s.o"
+--ro-base 0x00400000 --entry 0x00400000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\VES.map" -o .\Objects\VES.axf
