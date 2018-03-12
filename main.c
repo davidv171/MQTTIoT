@@ -115,8 +115,12 @@ int main (void) {
 				printf("\n");
 				mysock = socket(AF_INET, SOCK_STREAM, 0);
 				initialize_conn(mysock,host,port);
+
 			}
-			sleep(10);
+			else{
+				sleep(10);
+
+			}
 
 
 
